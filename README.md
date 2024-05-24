@@ -9,7 +9,7 @@ Il vérifie d'abord si Docker est déjà installé, puis installe Docker et Dock
 1. Clonez ce dépôt sur votre machine Linux :
 
    
-   git clone https://github.com/votre-utilisateur/installation-docker.git
+   git clone https://github.com/Hackthus/Docker-Installer.git
    
 
 2. Accédez au répertoire cloné :
