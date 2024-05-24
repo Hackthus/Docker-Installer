@@ -1,7 +1,7 @@
 
 # Script d'installation de Docker et Docker Compose
 
-Ce script shell automatise le processus d'installation de Docker et Docker Compose sur une machine Linux. 
+Ce script shell automatise le processus d'installation des dernières versions de Docker et Docker Compose sur une machine Linux. 
 Il vérifie d'abord si Docker est déjà installé, puis installe Docker et Docker Compose s'ils ne le sont pas déjà.
 
 ## Utilisation
