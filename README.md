@@ -19,6 +19,7 @@ Clonez ce dépôt ou téléchargez le script directement :
 
  
 git clone https://github.com/Hackthus/Docker-Installer.git
+
 cd Docker-Installer
 
 chmod +x install_docker.sh
