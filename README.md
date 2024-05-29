@@ -22,6 +22,6 @@ git clone https://github.com/Hackthus/Docker-Installer.git
 
 cd Docker-Installer
 
-chmod +x install_docker.sh
+chmod +x installer-docker-engine.sh
 sudo ./installer-docker-engine.sh
 
