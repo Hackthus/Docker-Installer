@@ -1,4 +1,4 @@
-# Script d'Installation de Docker sur Debian
+# Script d'Installation de Docker Engine sur Debian
 
 Ce dépôt contient un script bash pour installer Docker sur un système Debian. Le script supprime les anciennes versions de Docker, ajoute le dépôt officiel de Docker, et installe les paquets nécessaires. 
 
